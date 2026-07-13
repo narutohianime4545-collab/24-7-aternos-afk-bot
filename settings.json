@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ncr_smp14.aternos.me",
-    "port": 21508,
+    "ip": "ncr_smp014.aternos.me",
+    "port": 12766,
     "version": "1.20.1",
     "try-creative": false
   },
